@@ -1,0 +1,24 @@
+.copyright {
+ font-size: x-small;
+}
+body, th, td, h2 small {
+ font-family: Verdana, Arial, Helvetica, sans-serif;
+ }
+html body, body th, body td, h2 small, .app h3, .app h4, #rightcol h3, #bodycol pre, #bodycol code {
+ font-size: x-small;
+ voice-family: "\"}\"";
+ voice-family: inherit;
+ font-size: small
+ }
+html>body, html>body th, html>body td, html>body h2 small, html>body .app h3, html>body .app h4, html>body #rightcol h3 {
+ font-size: small
+ }
+
+
+#bodycol p{
+ margin-top: .67em;
+ margin-bottom: .67em;
+ }
+h3, h4 {
+ margin-bottom: 0;
+ }
